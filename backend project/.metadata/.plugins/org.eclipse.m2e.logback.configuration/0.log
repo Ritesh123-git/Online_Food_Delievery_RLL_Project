@@ -1,0 +1,43 @@
+2022-10-17 12:47:52,910 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-17 12:51:09,785 [Worker-22: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-17 12:51:21,039 [Worker-22: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:online-food:0.0.1-SNAPSHOT @ C:\Users\Prateek\OneDrive\online food\backend project\online-food\pom.xml.
+2022-10-17 12:51:29,712 [Worker-22: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /online-food/src/main/java
+2022-10-17 12:51:29,713 [Worker-22: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /online-food/src/main/resources
+2022-10-17 12:51:29,719 [Worker-22: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /online-food/src/main/resources
+2022-10-17 12:51:29,737 [Worker-22: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /online-food/src/test/java
+2022-10-17 12:51:30,609 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 12:51:30,610 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-17 12:51:30,620 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 12:51:30,656 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 12:51:30,663 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 12:51:30,663 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-17 12:51:30,663 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Prateek\OneDrive\online food\backend project\online-food\src\test\resources
+2022-10-17 12:51:37,643 [Worker-22: Update Maven projects configuration] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 12:51:37,643 [Worker-22: Update Maven projects configuration] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-17 12:51:37,649 [Worker-22: Update Maven projects configuration] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 12:51:37,655 [Worker-22: Update Maven projects configuration] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 12:51:37,659 [Worker-22: Update Maven projects configuration] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 12:51:37,659 [Worker-22: Update Maven projects configuration] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-17 12:51:37,660 [Worker-22: Update Maven projects configuration] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Prateek\OneDrive\online food\backend project\online-food\src\test\resources
+2022-10-17 12:51:41,660 [Worker-22: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 31 sec
+2022-10-17 12:52:09,029 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-17 12:52:09,636 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:online-food:0.0.1-SNAPSHOT @ C:\Users\Prateek\OneDrive\online food\backend project\online-food\pom.xml.
+2022-10-17 12:52:10,543 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /online-food/src/main/java
+2022-10-17 12:52:10,544 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /online-food/src/main/resources
+2022-10-17 12:52:10,545 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /online-food/src/main/resources
+2022-10-17 12:52:10,547 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /online-food/src/test/java
+2022-10-17 12:52:22,163 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 12:52:22,163 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-17 12:52:22,171 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 12:52:22,199 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 12:52:22,209 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 12:52:22,209 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-17 12:52:22,210 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Prateek\OneDrive\online food\backend project\online-food\src\test\resources
+2022-10-17 12:52:23,728 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 14 sec
+2022-10-17 13:06:40,494 [Worker-24: Launching OnlineFoodApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:06:40,495 [Worker-24: Launching OnlineFoodApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-17 13:06:40,496 [Worker-24: Launching OnlineFoodApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 13:06:40,503 [Worker-24: Launching OnlineFoodApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 13:06:40,507 [Worker-24: Launching OnlineFoodApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:06:40,507 [Worker-24: Launching OnlineFoodApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-17 13:06:40,508 [Worker-24: Launching OnlineFoodApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Prateek\OneDrive\online food\backend project\online-food\src\test\resources
